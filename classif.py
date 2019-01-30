@@ -4,6 +4,8 @@
 Created on Sun Nov 24 10:05:42 2018
 
 @author: myriamelhelou & juliecoletti
+
+this script is inspired by Marco Bonzanini's tutorial : https://marcobonzanini.com/2015/01/19/sentiment-analysis-with-python-and-scikit-learn/
 """
 import sys
 import os
