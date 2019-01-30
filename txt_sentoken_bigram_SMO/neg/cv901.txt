@@ -1,0 +1,1 @@
+Temps_attente attente_trop trop_long long_personnel personnel_vite vite_dépassé dépassé_ignore ignore_pompon pompon_commande commande_dessert dessert_carte carte_macaron macaron_pistache pistache_accompagné accompagné_sorbet sorbet_framboise framboise_sert sert_macaron macaron_framboise framboise_glace glace_pistache

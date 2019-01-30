@@ -1,0 +1,1 @@
+arrét_route route_morceau morceau_boeuf boeuf_prévu prévu_mariné mariné_marinade marinade_viande viande_seche seche_grille grille_sel sel_poivre poivre_présentation présentation_addition addition_salé

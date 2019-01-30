@@ -1,0 +1,1 @@
+Style_brasserie brasserie_décor décor_pas pas_cuisine cuisine_toujours toujours_même même_concept concept_entrée entrée_plat plat_dessert dessert_classique classique_cuisine cuisine_fantaisie fantaisie_rien rien_attrayant attrayant_est est_bon bon_plus plus_service service_est est_aussi aussi_fade fade_décoration

@@ -1,0 +1,1 @@
+est_loin_train loin_train_bleu train_bleu_gare bleu_gare_Pas gare_Pas_clim Pas_clim_service clim_service_est service_est_correct est_correct_est correct_est_vrai est_vrai_avait vrai_avait_peu avait_peu_monde peu_monde_12h45 monde_12h45_jour 12h45_jour_ai jour_ai_eu ai_eu_bière eu_bière_1'30 bière_1'30_plat 1'30_plat_5

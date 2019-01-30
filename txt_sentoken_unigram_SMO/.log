@@ -1,0 +1,18 @@
+Results for SVC(kernel=rbf)Training time: 0.646963s; Prediction time: 0.059047s             precision    recall  f1-score   support
+
+        neg       0.50      0.57      0.53       100
+        pos       0.50      0.43      0.46       100
+
+avg / total       0.50      0.50      0.50       200
+Results for SVC(kernel=linear)Training time: 0.487841s; Prediction time: 0.048612s             precision    recall  f1-score   support
+
+        neg       0.50      0.44      0.47       100
+        pos       0.50      0.56      0.53       100
+
+avg / total       0.50      0.50      0.50       200
+Results for LinearSVC()Training time: 0.009081s; Prediction time: 0.000176s             precision    recall  f1-score   support
+
+        neg       0.50      0.96      0.66       100
+        pos       0.50      0.04      0.07       100
+
+avg / total       0.50      0.50      0.37       200

@@ -1,0 +1,1 @@
+Menu_jour jour_exception exception_plats plats_cesse cesse_renouveler renouveler_fil fil_jours jours_apportent apportent_cuisine cuisine_familiale familiale_non non_monotone monotone_ardoise ardoise_change change_jours jours_plus plus_accueil accueil_service service_sont sont_excellents excellents_venir venir_régulièrement régulièrement_est est_un

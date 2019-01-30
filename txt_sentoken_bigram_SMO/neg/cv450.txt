@@ -1,0 +1,1 @@
+choix_tapas tapas_est est_correct correct_carte carte_desserts desserts_est est_pas pas_assez assez_développée développée_Cocktail Cocktail_plats plats_bons bons_personnel personnel_est est_agréable agréable_arrivez arrivez_restaurant restaurant_partir partir_moment moment_avez avez_terminé terminé_manger manger_n’avez n’avez_pas pas_temps

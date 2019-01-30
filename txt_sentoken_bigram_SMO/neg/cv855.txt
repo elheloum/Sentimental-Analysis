@@ -1,0 +1,1 @@
+avons_mangé mangé_soir soir_cadre cadre_opération opération_restaurant restaurant_menu menu_acheté acheté_= =_menu menu_offert offert_heureusement heureusement_Accueil Accueil_inexistant inexistant_personnel personnel_peu peu_souriant souriant_propose propose_table table_tout tout_fond fond_restaurant restaurant_serons serons_premières premières_loges

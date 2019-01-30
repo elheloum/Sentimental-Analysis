@@ -1,0 +1,1 @@
+Service_moyen moyen_produits produits_moyen moyen_boissons boissons_chaudes chaudes_pain pain_confitures confitures_ok ok_rien rien_vraiment vraiment_maison maison_Mais Mais_chose chose_plus plus_interpellé interpellé_est est_endroit endroit_ne ne_respire respire_pas pas_propreté propreté_vue vue_plongeante plongeante_cuisine

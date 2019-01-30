@@ -1,0 +1,1 @@
+Carte_menu menu_pas pas_jour jour_rapport rapport_restaurant restaurant_propose propose_Descriptif Descriptif_plats plats_non non_adequation adequation_plat plat_servi servi_pain pain_brioché brioché_boulanger boulanger_= =_demi demi_tranche tranche_pain pain_mie mie_grillée grillée_Malgré Malgré_chef chef_service service_dynamique dynamique_agreable

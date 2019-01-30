@@ -1,0 +1,1 @@
+installe_accueil accueil_correct correct_commande commande_coca coca_light light_coca coca_arrive arrive_pas pas_bon bon_périmé périmé_signal signal_5 5_minutes minutes_plus plus_tard tard_serveur serveur_arrive arrive_sourire sourire_autre autre_bouteille bouteille_coca coca_light light_déjà déjà_décapsulée décapsulée_date date_péremption péremption_truc truc_louche

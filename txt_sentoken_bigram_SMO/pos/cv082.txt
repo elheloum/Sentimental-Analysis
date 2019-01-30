@@ -1,0 +1,1 @@
+bon_restaurant restaurant_proposant proposant_plats plats_qualité qualité_riches riches_saveur saveur_prix prix_très très_raisonnable raisonnable_accueil accueil_service service_ambiance ambiance_sont sont_simples simples_agréables

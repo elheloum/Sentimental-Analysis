@@ -1,0 +1,1 @@
+Petit_restaurant restaurant_famille famille_Cuisine Cuisine_excellente excellente_midi midi_conseille conseille_couscous couscous_viande viande_qualité qualité_légume légume_cuit cuit_point point_soir soir_voulez voulez_aller aller_boire boire_verre verre_amis amis_bar bar_bonne bonne_ambiance ambiance_petite petite_musique musique_fond

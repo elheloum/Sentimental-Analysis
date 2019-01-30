@@ -1,0 +1,1 @@
+restaurant_carte carte_réduite réduite_plats plats_préparés préparés_produits produits_frais frais_saison saison_est est_bon bon_trouve trouve_quantités quantités_assez assez_réduites réduites_ne ne_considère considère_pas pas_grosse grosse_partie partie_salade salade_occupe occupe_assiette assiette_comme comme_faisant faisant_partie partie_plat plat_préparé

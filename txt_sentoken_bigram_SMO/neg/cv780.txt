@@ -1,0 +1,1 @@
+repas_affaire affaire_arrêt arrêt_imprévu imprévu_grill grill_eybens eybens_déguster déguster_steak steak_tartare tartare_Résultat Résultat_attente attente_ja ja_commande commande_prise prise_viande viande_pas pas_terrible terrible_super super_froide froide_sortant sortant_doute doute_frigo frigo_servi servi_œuf œuf_trop trop_peu peu_condiments condiments_bref

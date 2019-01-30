@@ -1,0 +1,1 @@
+peut_choisir_pain choisir_pain_avoine pain_avoine_miel avoine_miel_faire miel_faire_sandwich faire_sandwich_légume sandwich_légume_limite légume_limite_est limite_est_délicieux est_délicieux_bon délicieux_bon_pain bon_pain_pas pain_pas_dur
